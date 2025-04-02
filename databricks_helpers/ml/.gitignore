@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+.DS_Store
+
+# macOS folder attributes
+Icon?
+._*
+
+# Virtual environments
+venv/
+.env/
+.envrc
+.venv/
+pip-log.txt
+
+# Poetry
+poetry.lock
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# PyInstaller
+*.manifest
+*.spec
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test output
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+.pylint.d/
+
+# Logs
+*.log
+
+# Local env files
+*.env
+.env.*
+
+# Compiled C files
+*.so
+
+# Temporary files
+*.swp
+*~
